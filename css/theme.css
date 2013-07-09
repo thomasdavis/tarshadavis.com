@@ -1,0 +1,9 @@
+.timeline {
+  margin: auto;
+  width: 960px;
+}
+.contact {
+  list-style: none;
+  padding: 0;
+  margin-left: 15px;
+}
